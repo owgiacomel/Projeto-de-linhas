@@ -1,0 +1,13 @@
+[general]
+name=Flight Line Connector
+qgisMinimumVersion=3.22
+description=Cria linhas de ligação contínuas e polígonos de segurança para projetos de pulverização.
+about=Plugin que conecta linhas de um projeto de voo de drone e gera zonas de não pulverização para as manobras.
+version=1.0.0
+author=Projeto de linhas
+email=example@example.com
+category=Vector
+icon=icon.svg
+class_name=FlightLineConnectorPlugin
+experimental=False
+deprecated=False
