@@ -1,0 +1,2 @@
+# Projeto-de-linhas
+#plugin para qgis cujo possua a função de ligar aponta das linhas de um projeto de linha, de forma a formar uma linha "contínua", e junto a isso, logo abaixo dessa linha de ligação criada, adicionar um polígono de 10 metros menor que a linha adicionada e com largura de 5metros pra cada lado da linha adicionada. Esse plugin será responsável pela criação de linhas de pulverização para um drone de aplicação agrícola, com a adição do polígono que é uma área de não pulverização ( no momento em que drone estiver trocando entre as linhas)
